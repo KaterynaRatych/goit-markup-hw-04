@@ -372,6 +372,8 @@ img {
 }
 .footer-soc p {
   margin-bottom: 16px;
+  font-weight: 500;
+  color: var(--color-white);
 }
 .customers {
   padding-top: 130px;
